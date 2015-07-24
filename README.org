@@ -1,9 +1,9 @@
 # LeetCode
 LeetCode
 
-| 编号 | 题目                         | 难度 | 标签        | 备注 |
-|------+------------------------------+------+-------------+------|
-|  237 | Delete Node in a Linked List | Easy | Linked List |      |
-|  103 | Maximum Depth of Binary Tree | Easy | Tree, DFS   |      |
+| 编号 | 题目                         | 难度 | 标签        | 备注     |
+|------+------------------------------+------+-------------+----------|
+|  237 | Delete Node in a Linked List | Easy | Linked List | new idea |
+|  103 | Maximum Depth of Binary Tree | Easy | Tree, DFS   |          |
 
 
