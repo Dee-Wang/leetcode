@@ -8,6 +8,8 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 给出一个二叉树，找出这棵树的最大深度。
 
+最大深度就是叶子节点到根节点的最长路径。
+
 ## Solution:
 
 递归：

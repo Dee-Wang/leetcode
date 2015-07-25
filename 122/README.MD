@@ -14,7 +14,7 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 假设如图是价格曲线，只要在价格线上升阶段持有股票就能收益，最大收益即所有上升高度之和。
 
-[stock-price](stock-price.png)
+![stock-price](stock-price.png)
 
 对算法来说就是，如果数组中第i个元素比第i-1个元素大，就可以获得收益。
 
