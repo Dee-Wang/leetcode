@@ -51,6 +51,6 @@ public:
         }
         return ret;
     }
-};
+;
 ```
 

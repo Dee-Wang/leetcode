@@ -3,15 +3,14 @@ LeetCode
 
 | 编号 | 题目                                           | 难度   | 标签                         | 备注 |
 |------+------------------------------------------------+--------+------------------------------+------|
+|   94 | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack      |      |
 |  100 | Same Tree                                      | Easy   | Tree, DFS                    |      |
 |  104 | Maximum Depth of Binary Tree                   | Easy   | Tree, DFS                    |      |
 |  122 | Best Time to Buy and Sell Stock II             | Easy   | Array, Greedy                |      |
 |  136 | Single Number                                  | Medium | Hash Tabele, BitManlpulation |      |
 |  141 | Linked List Cycle                              | Medium | Linked List, Two Pointers    |      |
 |  144 | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                  |      |
+|  145 | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                  |      |
+|  191 | Number of 1 Bits                               | Easy   | Bit Manipulation             |      |
 |  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                         |      |
 |  237 | Delete Node in a Linked List                   | Easy   | Linked List                  |      |
-
-
-
-
