@@ -1,5 +1,4 @@
 # LeetCode
-LeetCode
 
 | 编号 | 题目                                           | 难度   | 标签                         | 备注 |
 |------+------------------------------------------------+--------+------------------------------+------|
@@ -11,6 +10,7 @@ LeetCode
 |  141 | Linked List Cycle                              | Medium | Linked List, Two Pointers    |      |
 |  144 | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                  |      |
 |  145 | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                  |      |
+|  171 | Excel Sheet Column Number                      | Easy   | Math                         |      |
 |  191 | Number of 1 Bits                               | Easy   | Bit Manipulation             |      |
 |  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                         |      |
 |  237 | Delete Node in a Linked List                   | Easy   | Linked List                  |      |
