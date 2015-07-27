@@ -5,10 +5,10 @@
 > Given two binary trees, write a function to check if they are equal or not.
 > 
 > Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
-> 
-> 给出两个二叉树，写个方法检查这两棵树是否相等。
-> 
-> 两个二叉树相等意味着结构相同，而且值也相等。
+
+给出两个二叉树，写个方法检查这两棵树是否相等。
+
+两个二叉树相等意味着结构相同，而且值也相等。
 
 ## Solution:
 

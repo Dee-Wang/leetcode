@@ -2,10 +2,10 @@
 
 ## Question:
 
-Given an array of integers, every element appears twice except for one. Find that single one.
-
-Note:
-Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+> Given an array of integers, every element appears twice except for one. Find that single one.
+> 
+> Note:
+> Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
 给出一个整形的数组，数组每个元素都会出现两次，只有一个元素只出现一次，找出这个元素。
 
