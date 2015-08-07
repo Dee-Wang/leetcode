@@ -23,8 +23,21 @@
  */
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head) {
-        
+    ListNode *deleteDuplicates(ListNode *head) {
+        if(!head) return NULL;
+        int lastVal = head->val;
+        ListNode *p = head;
+        while(p->next)
+        {
+            if(p->next->val == lastVal)
+            {
+                p->next = p->next->next;
+            }else{
+                lastVal = p->next->val;
+                p = p->next;
+            }
+        }
+        return head;
     }
 };
 ```
