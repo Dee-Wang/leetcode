@@ -32,3 +32,17 @@
 |  226 | Invert Binary Tree                             | Easy   | Tree                                        |      |
 |  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                                        |      |
 |  237 | Delete Node in a Linked List                   | Easy   | Linked List                                 |      |
+|    6 | ZigZag Conversion                              | Easy   | String                                      |      |
+|    8 | String to Integer (atoi)                       | Easy   | Math, String                                |      |
+|  165 | Compare Version Numbers                        | Easy   | String                                      |      |
+|  112 | Path Sum                                       | Easy   | Tree, DFS                                   |      |
+|   88 | Merge Sorted Arrat                             | Easy   | Array Two Pointers                          |      |
+|  102 | Binary Tree Level Order Traversal              | Easy   | Tree, BFS                                   |      |
+|  172 | Factorial Trailing Zeroes                      | Easy   | Math                                        |      |
+|  111 | Minimum Depth of Binary Tree                   | Easy   | Tree, DFS, BFS                              |      |
+|  160 | Intersection of Two Linked Lists               | Easy   | Linked List                                 |      |
+|  190 | Reverse Bits                                   | Easy   | Bit Manipulation                            |      |
+|    9 | Palindrome Number                              | Easy   | Math                                        |      |
+|   58 | Length of Last Word                            | Easy   | String                                      |      |
+|   19 | Remove Nth Node From End of List               | Easy   | Linked List, Two Pointers                   |      |
+|      |                                                |        |                                             |      |
