@@ -1,20 +1,24 @@
 # LeetCode
 
-| 编号 | 题目                                           | 难度   | 标签                         | 备注 |
-|------+------------------------------------------------+--------+------------------------------+------|
-|   94 | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack      |      |
-|  100 | Same Tree                                      | Easy   | Tree, DFS                    |      |
-|  104 | Maximum Depth of Binary Tree                   | Easy   | Tree, DFS                    |      |
-|  116 | Populating Next Right Pointers in Each Node    | Medium | Tree, DFS                    |      |
-|  122 | Best Time to Buy and Sell Stock II             | Easy   | Array, Greedy                |      |
-|  136 | Single Number                                  | Medium | Hash Tabele, BitManlpulation |      |
-|  141 | Linked List Cycle                              | Medium | Linked List, Two Pointers    |      |
-|  144 | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                  |      |
-|  145 | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                  |      |
-|  171 | Excel Sheet Column Number                      | Easy   | Math                         |      |
-|  191 | Number of 1 Bits                               | Easy   | Bit Manipulation             |      |
-|  217 | Contains Duplicate                             | Easy   | Array, Hash Table            |      |
-|  219 | Contains Duplicate II                          | Easy   | Array, Hash Table            |      |
-|  226 | Invert Binary Tree                             | Easy   | Tree                         |      |
-|  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                         |      |
-|  237 | Delete Node in a Linked List                   | Easy   | Linked List                  |      |
+| 编号 | 题目                                           | 难度   | 标签                                        | 备注 |
+|------+------------------------------------------------+--------+---------------------------------------------+------|
+|   94 | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack                     |      |
+|  100 | Same Tree                                      | Easy   | Tree, DFS                                   |      |
+|  104 | Maximum Depth of Binary Tree                   | Easy   | Tree, DFS                                   |      |
+|  116 | Populating Next Right Pointers in Each Node    | Medium | Tree, DFS                                   |      |
+|  122 | Best Time to Buy and Sell Stock II             | Easy   | Array, Greedy                               |      |
+|  136 | Single Number                                  | Medium | Hash Tabele, BitManlpulation                |      |
+|  141 | Linked List Cycle                              | Medium | Linked List, Two Pointers                   |      |
+|  144 | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                                 |      |
+|  145 | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                                 |      |
+|  171 | Excel Sheet Column Number                      | Easy   | Math                                        |      |
+|  191 | Number of 1 Bits                               | Easy   | Bit Manipulation                            |      |
+|  217 | Contains Duplicate                             | Easy   | Array, Hash Table                           |      |
+|  219 | Contains Duplicate II                          | Easy   | Array, Hash Table                           |      |
+|  226 | Invert Binary Tree                             | Easy   | Tree                                        |      |
+|  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                                        |      |
+|  237 | Delete Node in a Linked List                   | Easy   | Linked List                                 |      |
+|  169 | Majority Element                               | Easy   | Divide and Conquer, Array, Bit Manipulation |      |
+|   70 | Climbing Stairs                                | Easy   | Dynamic Programming                         |      |
+|   83 | Remove Duplicates from Sorted List             | Easy   | Linked List                                 |      |
+|      |                                                |        |                                             |      |
