@@ -16,10 +16,10 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int, int> umap;
-        for(vector<int>::iterator it = nums.begin(); it != nums.end(); ++it){
-            if(umap.find(*it) != umap.end()) return true;
-            else umap[*it] = 1;
+        unordered_set<int> uset;
+        for(auto it = nums.begin(); it != nums.end(); ++it){
+            if(uset.find(*it) != uset.end()) return true;
+            else uset.insert(*it);
         }
         return false;
     }

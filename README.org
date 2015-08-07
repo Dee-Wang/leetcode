@@ -14,6 +14,7 @@
 |  171 | Excel Sheet Column Number                      | Easy   | Math                         |      |
 |  191 | Number of 1 Bits                               | Easy   | Bit Manipulation             |      |
 |  217 | Contains Duplicate                             | Easy   | Array, Hash Table            |      |
+|  219 | Contains Duplicate II                          | Easy   | Array, Hash Table            |      |
 |  226 | Invert Binary Tree                             | Easy   | Tree                         |      |
 |  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                         |      |
 |  237 | Delete Node in a Linked List                   | Easy   | Linked List                  |      |
