@@ -25,6 +25,7 @@
 |   83 | Remove Duplicates from Sorted List             | Easy   | Linked List                                 |      |
 |   88 | Merge Sorted Arrat                             | Easy   | Array Two Pointers                          |      |
 |   94 | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack                     |      |
+|   96 | Unique Binary Search Trees                     | Medium | Tree, Dynamic Programming                   |      |
 |  100 | Same Tree                                      | Easy   | Tree, DFS                                   |      |
 |  101 | Symmetric Tree                                 | Easy   | Tree, DFS                                   |      |
 |  102 | Binary Tree Level Order Traversal              | Easy   | Tree, BFS                                   |      |
