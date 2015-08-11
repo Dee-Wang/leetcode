@@ -1,61 +1,61 @@
 # LeetCode
 
-| 编号 | 题目                                           | 难度   | 标签                                        | 备注 |
-|------+------------------------------------------------+--------+---------------------------------------------+------|
-|    1 | Two Sum                                        | Medium | Array, Hash Table                           |      |
-|    2 | Add Two Numbers                                | Medium | Linked List, Math                           |      |
-|    3 | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String            |      |
-|    5 | Longest Palindromic Substring                  | Medium | String                                      |      |
-|    6 | ZigZag Conversion                              | Easy   | String                                      |      |
-|    7 | Reverse Integer                                | Easy   | Math                                        |      |
-|    8 | String to Integer (atoi)                       | Easy   | Math, String                                |      |
-|    9 | Palindrome Number                              | Easy   | Math                                        |      |
-|   14 | Longest Common Prefix                          | Easy   | String                                      |      |
-|   19 | Remove Nth Node From End of List               | Easy   | Linked List, Two Pointers                   |      |
-|   20 | Valid Parentheses                              | Easy   | Stack, String                               |      |
-|   21 | Merge Two Sorted Lists                         | Easy   | Linked List                                 |      |
-|   26 | Remove Duplicates from Sorted Array            | Easy   | Array, Two Pointers                         |      |
-|   27 | Remove Element                                 | Easy   | Array, Two Pointers                         |      |
-|   28 | Implement strStr()                             | Easy   | Two Pointers, String                        |      |
-|   35 | Search Insert Position                         | Medium | Array, Binary Tree                          |      |
-|   38 | Count and Say                                  | Easy   | String                                      |      |
-|   58 | Length of Last Word                            | Easy   | String                                      |      |
-|   66 | Plus One                                       | Easy   | Array, Math                                 |      |
-|   67 | Add Binary                                     | Easy   | Math, String                                |      |
-|   70 | Climbing Stairs                                | Easy   | Dynamic Programming                         |      |
-|   83 | Remove Duplicates from Sorted List             | Easy   | Linked List                                 |      |
-|   88 | Merge Sorted Arrat                             | Easy   | Array Two Pointers                          |      |
-|   94 | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack                     |      |
-|   96 | Unique Binary Search Trees                     | Medium | Tree, Dynamic Programming                   |      |
-|  100 | Same Tree                                      | Easy   | Tree, DFS                                   |      |
-|  101 | Symmetric Tree                                 | Easy   | Tree, DFS                                   |      |
-|  102 | Binary Tree Level Order Traversal              | Easy   | Tree, BFS                                   |      |
-|  104 | Maximum Depth of Binary Tree                   | Easy   | Tree, DFS                                   |      |
-|  110 | Balanced Binary Tree                           | Easy   | Tree, BFS                                   |      |
-|  111 | Minimum Depth of Binary Tree                   | Easy   | Tree, DFS, BFS                              |      |
-|  112 | Path Sum                                       | Easy   | Tree, DFS                                   |      |
-|  116 | Populating Next Right Pointers in Each Node    | Medium | Tree, DFS                                   |      |
-|  118 | Pascal's Triangle                              | Easy   | Array                                       |      |
-|  119 | Pascal's Triangle II                           | Easy   | Array                                       |      |
-|  122 | Best Time to Buy and Sell Stock II             | Easy   | Array, Greedy                               |      |
-|  125 | Valid Palindrome                               | Easy   | Two Pointers, String                        |      |
-|  136 | Single Number                                  | Medium | Hash Tabele, BitManlpulation                |      |
-|  141 | Linked List Cycle                              | Medium | Linked List, Two Pointers                   |      |
-|  144 | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                                 |      |
-|  145 | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                                 |      |
-|  155 | Min Stack                                      | Easy   | Stack, Data Structure                       |      |
-|  160 | Intersection of Two Linked Lists               | Easy   | Linked List                                 |      |
-|  165 | Compare Version Numbers                        | Easy   | String                                      |      |
-|  168 | Excel Sheet Column Title                       | Easy   | Math                                        |      |
-|  169 | Majority Element                               | Easy   | Divide and Conquer, Array, Bit Manipulation |      |
-|  171 | Excel Sheet Column Number                      | Easy   | Math                                        |      |
-|  172 | Factorial Trailing Zeroes                      | Easy   | Math                                        |      |
-|  189 | Rotate Array                                   | Easy   | Array                                       |      |
-|  190 | Reverse Bits                                   | Easy   | Bit Manipulation                            |      |
-|  191 | Number of 1 Bits                               | Easy   | Bit Manipulation                            |      |
-|  217 | Contains Duplicate                             | Easy   | Array, Hash Table                           |      |
-|  219 | Contains Duplicate II                          | Easy   | Array, Hash Table                           |      |
-|  226 | Invert Binary Tree                             | Easy   | Tree                                        |      |
-|  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                                        |      |
-|  237 | Delete Node in a Linked List                   | Easy   | Linked List                                 |      |
-|  242 | Valid Anagram                                  | Easy   | Hash Table, Sort                            |      |
+| 编号              | 题目                                           | 难度   | 标签                                        | 备注 |
+|-------------------+------------------------------------------------+--------+---------------------------------------------+------|
+| [[1][1/README.MD] | Two Sum                                        | Medium | Array, Hash Table                           |      |
+| [[2][2/README.MD] | Add Two Numbers                                | Medium | Linked List, Math                           |      |
+| [[3][3/README.MD] | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String            |      |
+| [[5][5/README.MD] | Longest Palindromic Substring                  | Medium | String                                      |      |
+| [[6][6/README.MD] | ZigZag Conversion                              | Easy   | String                                      |      |
+| [[7][7/README.MD] | Reverse Integer                                | Easy   | Math                                        |      |
+| [[8][8/README.MD] | String to Integer (atoi)                       | Easy   | Math, String                                |      |
+| [[9][9/README.MD] | Palindrome Number                              | Easy   | Math                                        |      |
+| 14   14           | Longest Common Prefix                          | Easy   | String                                      |      |
+| 19   19           | Remove Nth Node From End of List               | Easy   | Linked List, Two Pointers                   |      |
+| 20   20           | Valid Parentheses                              | Easy   | Stack, String                               |      |
+| 21   21           | Merge Two Sorted Lists                         | Easy   | Linked List                                 |      |
+| 26   26           | Remove Duplicates from Sorted Array            | Easy   | Array, Two Pointers                         |      |
+| 27   27           | Remove Element                                 | Easy   | Array, Two Pointers                         |      |
+| 28   28           | Implement strStr()                             | Easy   | Two Pointers, String                        |      |
+| 35   35           | Search Insert Position                         | Medium | Array, Binary Tree                          |      |
+| 38   38           | Count and Say                                  | Easy   | String                                      |      |
+| 58   58           | Length of Last Word                            | Easy   | String                                      |      |
+| 66   66           | Plus One                                       | Easy   | Array, Math                                 |      |
+| 67   67           | Add Binary                                     | Easy   | Math, String                                |      |
+| 70   70           | Climbing Stairs                                | Easy   | Dynamic Programming                         |      |
+| 83   83           | Remove Duplicates from Sorted List             | Easy   | Linked List                                 |      |
+| 88   88           | Merge Sorted Arrat                             | Easy   | Array Two Pointers                          |      |
+| 94   94           | Binary Tree Inorder Traversal                  | Medium | Tree, Hash Table, Stack                     |      |
+| 96   96           | Unique Binary Search Trees                     | Medium | Tree, Dynamic Programming                   |      |
+| 100  100          | Same Tree                                      | Easy   | Tree, DFS                                   |      |
+| 101  101          | Symmetric Tree                                 | Easy   | Tree, DFS                                   |      |
+| 102  102          | Binary Tree Level Order Traversal              | Easy   | Tree, BFS                                   |      |
+| 104  104          | Maximum Depth of Binary Tree                   | Easy   | Tree, DFS                                   |      |
+| 110  110          | Balanced Binary Tree                           | Easy   | Tree, BFS                                   |      |
+| 111  111          | Minimum Depth of Binary Tree                   | Easy   | Tree, DFS, BFS                              |      |
+| 112  112          | Path Sum                                       | Easy   | Tree, DFS                                   |      |
+| 116  116          | Populating Next Right Pointers in Each Node    | Medium | Tree, DFS                                   |      |
+| 118  118          | Pascal's Triangle                              | Easy   | Array                                       |      |
+| 119  119          | Pascal's Triangle II                           | Easy   | Array                                       |      |
+| 122  122          | Best Time to Buy and Sell Stock II             | Easy   | Array, Greedy                               |      |
+| 125  125          | Valid Palindrome                               | Easy   | Two Pointers, String                        |      |
+| 136  136          | Single Number                                  | Medium | Hash Tabele, BitManlpulation                |      |
+| 141  141          | Linked List Cycle                              | Medium | Linked List, Two Pointers                   |      |
+| 144  144          | Binary Tree Preorder Traversal                 | Medium | Tree, Stack                                 |      |
+| 145  145          | Binary Tree Postorder Traversal                | Hard   | Tree, Stack                                 |      |
+| 155  155          | Min Stack                                      | Easy   | Stack, Data Structure                       |      |
+| 160  160          | Intersection of Two Linked Lists               | Easy   | Linked List                                 |      |
+| 165  165          | Compare Version Numbers                        | Easy   | String                                      |      |
+| 168  168          | Excel Sheet Column Title                       | Easy   | Math                                        |      |
+| 169  169          | Majority Element                               | Easy   | Divide and Conquer, Array, Bit Manipulation |      |
+| 171  171          | Excel Sheet Column Number                      | Easy   | Math                                        |      |
+| 172  172          | Factorial Trailing Zeroes                      | Easy   | Math                                        |      |
+| 189  189          | Rotate Array                                   | Easy   | Array                                       |      |
+| 190  190          | Reverse Bits                                   | Easy   | Bit Manipulation                            |      |
+| 191  191          | Number of 1 Bits                               | Easy   | Bit Manipulation                            |      |
+| 217  217          | Contains Duplicate                             | Easy   | Array, Hash Table                           |      |
+| 219  219          | Contains Duplicate II                          | Easy   | Array, Hash Table                           |      |
+| 226  226          | Invert Binary Tree                             | Easy   | Tree                                        |      |
+| 235  235          | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                                        |      |
+| 237  237          | Delete Node in a Linked List                   | Easy   | Linked List                                 |      |
+| 242  242          | Valid Anagram                                  | Easy   | Hash Table, Sort                            |      |
