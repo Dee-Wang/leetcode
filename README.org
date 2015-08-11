@@ -58,3 +58,4 @@
 |  235 | Lowest Common Ancestor of a Binary Search Tree | Easy   | Tree                                        |      |
 |  237 | Delete Node in a Linked List                   | Easy   | Linked List                                 |      |
 |  242 | Valid Anagram                                  | Easy   | Hash Table, Sort                            |      |
+|   35 | Search Insert Position                         | Medium | Array, Binary Tree                          |      |
