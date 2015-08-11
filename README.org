@@ -2,14 +2,14 @@
 
 | 编号              | 题目                                           | 难度   | 标签                                        | 备注 |
 |-------------------+------------------------------------------------+--------+---------------------------------------------+------|
-| [[1][1/README.MD] | Two Sum                                        | Medium | Array, Hash Table                           |      |
-| [[2][2/README.MD] | Add Two Numbers                                | Medium | Linked List, Math                           |      |
-| [[3][3/README.MD] | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String            |      |
-| [[5][5/README.MD] | Longest Palindromic Substring                  | Medium | String                                      |      |
-| [[6][6/README.MD] | ZigZag Conversion                              | Easy   | String                                      |      |
-| [[7][7/README.MD] | Reverse Integer                                | Easy   | Math                                        |      |
-| [[8][8/README.MD] | String to Integer (atoi)                       | Easy   | Math, String                                |      |
-| [[9][9/README.MD] | Palindrome Number                              | Easy   | Math                                        |      |
+| [[1][1/README.MD]] | Two Sum                                        | Medium | Array, Hash Table                           |      |
+| [[2][2/README.MD]] | Add Two Numbers                                | Medium | Linked List, Math                           |      |
+| [[3][3/README.MD]] | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String            |      |
+| [[5][5/README.MD]] | Longest Palindromic Substring                  | Medium | String                                      |      |
+| [[6][6/README.MD]] | ZigZag Conversion                              | Easy   | String                                      |      |
+| [[7][7/README.MD]] | Reverse Integer                                | Easy   | Math                                        |      |
+| [[8][8/README.MD]] | String to Integer (atoi)                       | Easy   | Math, String                                |      |
+| [[9][9/README.MD]] | Palindrome Number                              | Easy   | Math                                        |      |
 | 14   14           | Longest Common Prefix                          | Easy   | String                                      |      |
 | 19   19           | Remove Nth Node From End of List               | Easy   | Linked List, Two Pointers                   |      |
 | 20   20           | Valid Parentheses                              | Easy   | Stack, String                               |      |
