@@ -51,6 +51,7 @@
 |  189 | [[189/README.MD][Rotate Array]]                                   | Easy   | Array                                       |      |
 |  190 | [[190/README.MD][Reverse Bits]]                                   | Easy   | Bit Manipulation                            |      |
 |  191 | [[191/README.MD][Number of 1 Bits]]                               | Easy   | Bit Manipulation                            |      |
+|  198 | [[198/README.MD][House Robber]]                                   | Easy   | DP                                          |      |
 |  206 | [[206/README.MD][Reverse Linked List]]                            | Easy   | Linked List                                 |      |
 |  217 | [[217/README.MD][Contains Duplicate]]                             | Easy   | Array, Hash Table                           |      |
 |  219 | [[219/README.MD][Contains Duplicate II]]                          | Easy   | Array, Hash Table                           |      |
