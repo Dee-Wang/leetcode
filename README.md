@@ -1,5 +1,5 @@
-|编号|题目|难度|标签|备注|
-|-|-|-|-|-|
+| 编号 | 题目 | 难度 | 标签 | 备注 |
+| ---- | ---- | ---- | ---- | ---- |
 | 1 | [Two Sum](1-Two-Sum.MD) | Easy | | |
 | 2 | [Add Two Numbers](2-Add-Two-Numbers.MD) | Medium | | |
 | 3 | [Longest Substring Without Repeating Characters](3-Longest-Substring-Without-Repeating-Characters.MD) | Medium | | |
