@@ -1,104 +1,104 @@
  编号 | 题目 | 难度 | 标签 | 备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| 1 | [Two Sum](001-Two-Sum.MD) | Easy | | |
-| 2 | [Add Two Numbers](002-Add-Two-Numbers.MD) | Medium | | |
-| 3 | [Longest Substring Without Repeating Characters](003-Longest-Substring-Without-Repeating-Characters.MD) | Medium | | |
-| 4 | Median of Two Sorted Arrays | Hard | | |
-| 5 | [Longest Palindromic Substring](005-Longest-Palindromic-Substring.MD) | Medium | | |
-| 6 | [ZigZag Conversion](006-ZigZag-Conversion.MD) | Easy | | |
-| 7 | [Reverse Integer](007-Reverse-Integer.MD) | Easy | | |
-| 8 | [String to Integer (atoi)](008-String-to-Integer-(atoi).MD) | Easy | | |
-| 9 | [Palindrome Number](009-Palindrome-Number.MD) | Easy | | |
-| 10 | Regular Expression Matching | Hard | | |
-| 11 | Container With Most Water | Medium | | |
-| 12 | Integer to Roman | Medium | | |
-| 13 | Roman to Integer | Easy | | |
-| 14 | [Longest Common Prefix](014-Longest-Common-Prefix.MD) | Easy | | |
-| 15 | 3Sum | Medium | | |
-| 16 | 3Sum Closest | Medium | | |
-| 17 | Letter Combinations of a Phone Number | Medium | | |
-| 18 | 4Sum | Medium | | |
-| 19 | [Remove Nth Node From End of List](019-Remove-Nth-Node-From-End-of-List.MD) | Easy | | |
-| 20 | [Valid Parentheses](020-Valid-Parentheses.MD) | Easy | | |
-| 21 | [Merge Two Sorted Lists](021-Merge-Two-Sorted-Lists.MD) | Easy | | |
-| 22 | Generate Parentheses | Medium | | |
-| 23 | Merge k Sorted Lists | Hard | | |
-| 24 | Swap Nodes in Pairs | Easy | | |
-| 25 | Reverse Nodes in k-Group | Hard | | |
-| 26 | [Remove Duplicates from Sorted Array](026-Remove-Duplicates-from-Sorted-Array.MD) | Easy | | |
-| 27 | [Remove Element](027-Remove-Element.MD) | Easy | | |
-| 28 | [Implement strStr()](028-Implement-strStr().MD) | Easy | | |
-| 29 | Divide Two Integers | Medium | | |
-| 30 | Substring with Concatenation of All Words | Hard | | |
-| 31 | Next Permutation | Medium | | |
-| 32 | Longest Valid Parentheses | Hard | | |
-| 33 | Search in Rotated Sorted Array | Hard | | |
-| 34 | Search for a Range | Medium | | |
-| 35 | [Search Insert Position](035-Search-Insert-Position.MD) | Medium | | |
-| 36 | Valid Sudoku | Easy | | |
-| 37 | Sudoku Solver | Hard | | |
-| 38 | [Count and Say](038-Count-and-Say.MD) | Easy | | |
-| 39 | Combination Sum | Medium | | |
-| 40 | Combination Sum II | Medium | | |
-| 41 | First Missing Positive | Hard | | |
-| 42 | Trapping Rain Water | Hard | | |
-| 43 | Multiply Strings | Medium | | |
-| 44 | Wildcard Matching | Hard | | |
-| 45 | Jump Game II | Hard | | |
-| 46 | Permutations | Medium | | |
-| 47 | Permutations II | Medium | | |
-| 48 | Rotate Image | Medium | | |
-| 49 | Group Anagrams | Medium | | |
-| 50 | Pow(x, n) | Medium | | |
-| 51 | N-Queens | Hard | | |
-| 52 | N-Queens II | Hard | | |
-| 53 | Maximum Subarray | Medium | | |
-| 54 | Spiral Matrix | Medium | | |
-| 55 | Jump Game | Medium | | |
-| 56 | Merge Intervals | Hard | | |
-| 57 | Insert Interval | Hard | | |
-| 58 | [Length of Last Word](058-Length-of-Last-Word.MD) | Easy | | |
-| 59 | Spiral Matrix II | Medium | | |
-| 60 | Permutation Sequence | Medium | | |
-| 61 | Rotate List | Medium | | |
-| 62 | Unique Paths | Medium | | |
-| 63 | Unique Paths II | Medium | | |
-| 64 | Minimum Path Sum | Medium | | |
-| 65 | Valid Number | Hard | | |
-| 66 | [Plus One](066-Plus-One.MD) | Easy | | |
-| 67 | [Add Binary](067-Add-Binary.MD) | Easy | | |
-| 68 | Text Justification | Hard | | |
-| 69 | Sqrt(x) | Medium | | |
-| 70 | [Climbing Stairs](070-Climbing-Stairs.MD) | Easy | | |
-| 71 | Simplify Path | Medium | | |
-| 72 | Edit Distance | Hard | | |
-| 73 | Set Matrix Zeroes | Medium | | |
-| 74 | Search a 2D Matrix | Medium | | |
-| 75 | Sort Colors | Medium | | |
-| 76 | Minimum Window Substring | Hard | | |
-| 77 | Combinations | Medium | | |
-| 78 | Subsets | Medium | | |
-| 79 | Word Search | Medium | | |
-| 80 | Remove Duplicates from Sorted Array II | Medium | | |
-| 81 | Search in Rotated Sorted Array II | Medium | | |
-| 82 | Remove Duplicates from Sorted List II | Medium | | |
-| 83 | [Remove Duplicates from Sorted List](083-Remove-Duplicates-from-Sorted-List.MD) | Easy | | |
-| 84 | Largest Rectangle in Histogram | Hard | | |
-| 85 | Maximal Rectangle | Hard | | |
-| 86 | Partition List | Medium | | |
-| 87 | Scramble String | Hard | | |
-| 88 | [Merge Sorted Array](088-Merge-Sorted-Array.MD) | Easy | | |
-| 89 | Gray Code | Medium | | |
-| 90 | Subsets II | Medium | | |
-| 91 | Decode Ways | Medium | | |
-| 92 | Reverse Linked List II | Medium | | |
-| 93 | Restore IP Addresses | Medium | | |
-| 94 | [Binary Tree Inorder Traversal](094-Binary-Tree-Inorder-Traversal.MD) | Medium | | |
-| 95 | Unique Binary Search Trees II | Medium | | |
-| 96 | [Unique Binary Search Trees](096-Unique-Binary-Search-Trees.MD) | Medium | | |
-| 97 | Interleaving String | Hard | | |
-| 98 | Validate Binary Search Tree | Medium | | |
-| 99 | Recover Binary Search Tree | Hard | | |
+| 001 | [Two Sum](001-Two-Sum.MD) | Easy | | |
+| 002 | [Add Two Numbers](002-Add-Two-Numbers.MD) | Medium | | |
+| 003 | [Longest Substring Without Repeating Characters](003-Longest-Substring-Without-Repeating-Characters.MD) | Medium | | |
+| 004 | Median of Two Sorted Arrays | Hard | | |
+| 005 | [Longest Palindromic Substring](005-Longest-Palindromic-Substring.MD) | Medium | | |
+| 006 | [ZigZag Conversion](006-ZigZag-Conversion.MD) | Easy | | |
+| 007 | [Reverse Integer](007-Reverse-Integer.MD) | Easy | | |
+| 008 | [String to Integer (atoi)](008-String-to-Integer-(atoi).MD) | Easy | | |
+| 009 | [Palindrome Number](009-Palindrome-Number.MD) | Easy | | |
+| 010 | Regular Expression Matching | Hard | | |
+| 011 | Container With Most Water | Medium | | |
+| 012 | Integer to Roman | Medium | | |
+| 013 | Roman to Integer | Easy | | |
+| 014 | [Longest Common Prefix](014-Longest-Common-Prefix.MD) | Easy | | |
+| 015 | 3Sum | Medium | | |
+| 016 | 3Sum Closest | Medium | | |
+| 017 | Letter Combinations of a Phone Number | Medium | | |
+| 018 | 4Sum | Medium | | |
+| 019 | [Remove Nth Node From End of List](019-Remove-Nth-Node-From-End-of-List.MD) | Easy | | |
+| 020 | [Valid Parentheses](020-Valid-Parentheses.MD) | Easy | | |
+| 021 | [Merge Two Sorted Lists](021-Merge-Two-Sorted-Lists.MD) | Easy | | |
+| 022 | Generate Parentheses | Medium | | |
+| 023 | Merge k Sorted Lists | Hard | | |
+| 024 | Swap Nodes in Pairs | Easy | | |
+| 025 | Reverse Nodes in k-Group | Hard | | |
+| 026 | [Remove Duplicates from Sorted Array](026-Remove-Duplicates-from-Sorted-Array.MD) | Easy | | |
+| 027 | [Remove Element](027-Remove-Element.MD) | Easy | | |
+| 028 | [Implement strStr()](028-Implement-strStr().MD) | Easy | | |
+| 029 | Divide Two Integers | Medium | | |
+| 030 | Substring with Concatenation of All Words | Hard | | |
+| 031 | Next Permutation | Medium | | |
+| 032 | Longest Valid Parentheses | Hard | | |
+| 033 | Search in Rotated Sorted Array | Hard | | |
+| 034 | Search for a Range | Medium | | |
+| 035 | [Search Insert Position](035-Search-Insert-Position.MD) | Medium | | |
+| 036 | Valid Sudoku | Easy | | |
+| 037 | Sudoku Solver | Hard | | |
+| 038 | [Count and Say](038-Count-and-Say.MD) | Easy | | |
+| 039 | Combination Sum | Medium | | |
+| 040 | Combination Sum II | Medium | | |
+| 041 | First Missing Positive | Hard | | |
+| 042 | Trapping Rain Water | Hard | | |
+| 043 | Multiply Strings | Medium | | |
+| 044 | Wildcard Matching | Hard | | |
+| 045 | Jump Game II | Hard | | |
+| 046 | Permutations | Medium | | |
+| 047 | Permutations II | Medium | | |
+| 048 | Rotate Image | Medium | | |
+| 049 | Group Anagrams | Medium | | |
+| 050 | Pow(x, n) | Medium | | |
+| 051 | N-Queens | Hard | | |
+| 052 | N-Queens II | Hard | | |
+| 053 | Maximum Subarray | Medium | | |
+| 054 | Spiral Matrix | Medium | | |
+| 055 | Jump Game | Medium | | |
+| 056 | Merge Intervals | Hard | | |
+| 057 | Insert Interval | Hard | | |
+| 058 | [Length of Last Word](058-Length-of-Last-Word.MD) | Easy | | |
+| 059 | Spiral Matrix II | Medium | | |
+| 060 | Permutation Sequence | Medium | | |
+| 061 | Rotate List | Medium | | |
+| 062 | Unique Paths | Medium | | |
+| 063 | Unique Paths II | Medium | | |
+| 064 | Minimum Path Sum | Medium | | |
+| 065 | Valid Number | Hard | | |
+| 066 | [Plus One](066-Plus-One.MD) | Easy | | |
+| 067 | [Add Binary](067-Add-Binary.MD) | Easy | | |
+| 068 | Text Justification | Hard | | |
+| 069 | Sqrt(x) | Medium | | |
+| 070 | [Climbing Stairs](070-Climbing-Stairs.MD) | Easy | | |
+| 071 | Simplify Path | Medium | | |
+| 072 | Edit Distance | Hard | | |
+| 073 | Set Matrix Zeroes | Medium | | |
+| 074 | Search a 2D Matrix | Medium | | |
+| 075 | Sort Colors | Medium | | |
+| 076 | Minimum Window Substring | Hard | | |
+| 077 | Combinations | Medium | | |
+| 078 | Subsets | Medium | | |
+| 079 | Word Search | Medium | | |
+| 080 | Remove Duplicates from Sorted Array II | Medium | | |
+| 081 | Search in Rotated Sorted Array II | Medium | | |
+| 082 | Remove Duplicates from Sorted List II | Medium | | |
+| 083 | [Remove Duplicates from Sorted List](083-Remove-Duplicates-from-Sorted-List.MD) | Easy | | |
+| 084 | Largest Rectangle in Histogram | Hard | | |
+| 085 | Maximal Rectangle | Hard | | |
+| 086 | Partition List | Medium | | |
+| 087 | Scramble String | Hard | | |
+| 088 | [Merge Sorted Array](088-Merge-Sorted-Array.MD) | Easy | | |
+| 089 | Gray Code | Medium | | |
+| 090 | Subsets II | Medium | | |
+| 091 | Decode Ways | Medium | | |
+| 092 | Reverse Linked List II | Medium | | |
+| 093 | Restore IP Addresses | Medium | | |
+| 094 | [Binary Tree Inorder Traversal](094-Binary-Tree-Inorder-Traversal.MD) | Medium | | |
+| 095 | Unique Binary Search Trees II | Medium | | |
+| 096 | [Unique Binary Search Trees](096-Unique-Binary-Search-Trees.MD) | Medium | | |
+| 097 | Interleaving String | Hard | | |
+| 098 | Validate Binary Search Tree | Medium | | |
+| 099 | Recover Binary Search Tree | Hard | | |
 | 100 | [Same Tree](100-Same-Tree.MD) | Easy | | |
 | 101 | [Symmetric Tree](101-Symmetric-Tree.MD) | Easy | | |
 | 102 | [Binary Tree Level Order Traversal](102-Binary-Tree-Level-Order-Traversal.MD) | Easy | | |
@@ -180,7 +180,7 @@
 | 188 | Best Time to Buy and Sell Stock IV | Hard | | |
 | 189 | [Rotate Array](189-Rotate-Array.MD) | Easy | | |
 | 190 | [Reverse Bits](190-Reverse-Bits.MD) | Easy | | |
-| 191 | [Number of 1 Bits](191-Number-of-1-Bits.MD) | Easy | | |
+| 191 | [Number of 001 Bits](191-Number-of-1-Bits.MD) | Easy | | |
 | 198 | [House Robber](198-House-Robber.MD) | Easy | | |
 | 199 | Binary Tree Right Side View | Medium | | |
 | 200 | Number of Islands | Medium | | |
