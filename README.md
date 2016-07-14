@@ -156,26 +156,26 @@
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | | |
 | 155 | [Min Stack](155-Min-Stack.MD) | Easy | | |
 | 156 | Binary Tree Upside Down  | Medium | | :lock: |
-| 157 | Read N Characters Given Read4  | Easy | | |
-| 158 | Read N Characters Given Read4 II - Call multiple times  | Hard | | |
-| 159 | Longest Substring with At Most Two Distinct Characters  | Hard | | |
+| 157 | Read N Characters Given Read4  | Easy | | :lock: |
+| 158 | Read N Characters Given Read4 II - Call multiple times  | Hard | | :lock: |
+| 159 | Longest Substring with At Most Two Distinct Characters  | Hard | | :lock: |
 | 160 | [Intersection of Two Linked Lists](160-Intersection-of-Two-Linked-Lists.MD) | Easy | | |
-| 161 | One Edit Distance  | Medium | | |
+| 161 | One Edit Distance  | Medium | | :lock: |
 | 162 | Find Peak Element | Medium | | |
-| 163 | Missing Ranges  | Medium | | |
+| 163 | Missing Ranges  | Medium | | :lock: |
 | 164 | Maximum Gap | Hard | | |
 | 165 | [Compare Version Numbers](165-Compare-Version-Numbers.MD) | Easy | | |
 | 166 | Fraction to Recurring Decimal | Medium | | |
-| 167 | Two Sum II - Input array is sorted  | Medium | | |
+| 167 | Two Sum II - Input array is sorted  | Medium | | :lock: |
 | 168 | [Excel Sheet Column Title](168-Excel-Sheet-Column-Title.MD) | Easy | | |
 | 169 | [Majority Element](169-Majority-Element.MD) | Easy | | |
-| 170 | Two Sum III - Data structure design  | Easy | | |
+| 170 | Two Sum III - Data structure design  | Easy | | :lock: |
 | 171 | [Excel Sheet Column Number](171-Excel-Sheet-Column-Number.MD) | Easy | | |
 | 172 | [Factorial Trailing Zeroes](172-Factorial-Trailing-Zeroes.MD) | Easy | | |
 | 173 | Binary Search Tree Iterator | Medium | | |
 | 174 | Dungeon Game | Hard | | |
 | 179 | Largest Number | Medium | | |
-| 186 | Reverse Words in a String II  | Medium | | |
+| 186 | Reverse Words in a String II  | Medium | | :lock: |
 | 187 | Repeated DNA Sequences | Medium | | |
 | 188 | Best Time to Buy and Sell Stock IV | Hard | | |
 | 189 | [Rotate Array](189-Rotate-Array.MD) | Easy | | |
@@ -226,88 +226,88 @@
 | 240 | Search a 2D Matrix II | Medium | | |
 | 241 | Different Ways to Add Parentheses | Medium | | |
 | 242 | [Valid Anagram](242-Valid-Anagram.MD) | Easy | | |
-| 243 | Shortest Word Distance  | Easy | | |
-| 244 | Shortest Word Distance II  | Medium | | |
-| 245 | Shortest Word Distance III  | Medium | | |
-| 246 | Strobogrammatic Number  | Easy | | |
-| 247 | Strobogrammatic Number II  | Medium | | |
-| 248 | Strobogrammatic Number III  | Hard | | |
-| 249 | Group Shifted Strings  | Easy | | |
-| 250 | Count Univalue Subtrees  | Medium | | |
-| 251 | Flatten 2D Vector  | Medium | | |
-| 252 | Meeting Rooms  | Easy | | |
-| 253 | Meeting Rooms II  | Medium | | |
-| 254 | Factor Combinations  | Medium | | |
-| 255 | Verify Preorder Sequence in Binary Search Tree  | Medium | | |
-| 256 | Paint House  | Medium | | |
+| 243 | Shortest Word Distance  | Easy | | :lock: |
+| 244 | Shortest Word Distance II  | Medium | | :lock: |
+| 245 | Shortest Word Distance III  | Medium | | :lock: |
+| 246 | Strobogrammatic Number  | Easy | | :lock: |
+| 247 | Strobogrammatic Number II  | Medium | | :lock: |
+| 248 | Strobogrammatic Number III  | Hard | | :lock: |
+| 249 | Group Shifted Strings  | Easy | | :lock: |
+| 250 | Count Univalue Subtrees  | Medium | | :lock: |
+| 251 | Flatten 2D Vector  | Medium | | :lock: |
+| 252 | Meeting Rooms  | Easy | | :lock: |
+| 253 | Meeting Rooms II  | Medium | | :lock: |
+| 254 | Factor Combinations  | Medium | | :lock: |
+| 255 | Verify Preorder Sequence in Binary Search Tree  | Medium | | :lock: |
+| 256 | Paint House  | Medium | | :lock: |
 | 257 | Binary Tree Paths | Easy | | |
 | 258 | [Add Digits](258-Add-Digits.MD) | Easy | | |
-| 259 | 3Sum Smaller  | Medium | | |
+| 259 | 3Sum Smaller  | Medium | | :lock: |
 | 260 | Single Number III | Medium | | |
-| 261 | Graph Valid Tree  | Medium | | |
+| 261 | Graph Valid Tree  | Medium | | :lock: |
 | 263 | Ugly Number | Easy | | |
 | 264 | Ugly Number II | Medium | | |
-| 265 | Paint House II  | Hard | | |
-| 266 | Palindrome Permutation  | Easy | | |
-| 267 | Palindrome Permutation II  | Medium | | |
+| 265 | Paint House II  | Hard | | :lock: |
+| 266 | Palindrome Permutation  | Easy | | :lock: |
+| 267 | Palindrome Permutation II  | Medium | | :lock: |
 | 268 | Missing Number | Medium | | |
-| 269 | Alien Dictionary  | Hard | | |
-| 270 | Closest Binary Search Tree Value  | Easy | | |
-| 271 | Encode and Decode Strings  | Medium | | |
-| 272 | Closest Binary Search Tree Value II  | Hard | | |
+| 269 | Alien Dictionary  | Hard | | :lock: |
+| 270 | Closest Binary Search Tree Value  | Easy | | :lock: |
+| 271 | Encode and Decode Strings  | Medium | | :lock: |
+| 272 | Closest Binary Search Tree Value II  | Hard | | :lock: |
 | 273 | Integer to English Words | Hard | | |
 | 274 | H-Index | Medium | | |
 | 275 | H-Index II | Medium | | |
-| 276 | Paint Fence  | Easy | | |
-| 277 | Find the Celebrity  | Medium | | |
+| 276 | Paint Fence  | Easy | | :lock: |
+| 277 | Find the Celebrity  | Medium | | :lock: |
 | 278 | First Bad Version | Easy | | |
 | 279 | Perfect Squares | Medium | | |
-| 280 | Wiggle Sort  | Medium | | |
-| 281 | Zigzag Iterator  | Medium | | |
+| 280 | Wiggle Sort  | Medium | | :lock: |
+| 281 | Zigzag Iterator  | Medium | | :lock: |
 | 282 | Expression Add Operators | Hard | | |
 | 283 | Move Zeroes | Easy | | |
 | 284 | Peeking Iterator | Medium | | |
-| 285 | Inorder Successor in BST  | Medium | | |
-| 286 | Walls and Gates  | Medium | | |
+| 285 | Inorder Successor in BST  | Medium | | :lock: |
+| 286 | Walls and Gates  | Medium | | :lock: |
 | 287 | Find the Duplicate Number | Hard | | |
-| 288 | Unique Word Abbreviation  | Easy | | |
+| 288 | Unique Word Abbreviation  | Easy | | :lock: |
 | 289 | Game of Life | Medium | | |
 | 290 | Word Pattern | Easy | | |
-| 291 | Word Pattern II  | Hard | | |
+| 291 | Word Pattern II  | Hard | | :lock: |
 | 292 | Nim Game | Easy | | |
-| 293 | Flip Game  | Easy | | |
-| 294 | Flip Game II  | Medium | | |
+| 293 | Flip Game  | Easy | | :lock: |
+| 294 | Flip Game II  | Medium | | :lock: |
 | 295 | Find Median from Data Stream | Hard | | |
-| 296 | Best Meeting Point  | Hard | | |
+| 296 | Best Meeting Point  | Hard | | :lock: |
 | 297 | Serialize and Deserialize Binary Tree | Hard | | |
-| 298 | Binary Tree Longest Consecutive Sequence  | Medium | | |
+| 298 | Binary Tree Longest Consecutive Sequence  | Medium | | :lock: |
 | 299 | Bulls and Cows | Easy | | |
 | 300 | Longest Increasing Subsequence | Medium | | |
 | 301 | Remove Invalid Parentheses | Hard | | |
-| 302 | Smallest Rectangle Enclosing Black Pixels  | Hard | | |
+| 302 | Smallest Rectangle Enclosing Black Pixels  | Hard | | :lock: |
 | 303 | Range Sum Query - Immutable | Easy | | |
 | 304 | Range Sum Query 2D - Immutable | Medium | | |
-| 305 | Number of Islands II  | Hard | | |
+| 305 | Number of Islands II  | Hard | | :lock: |
 | 306 | Additive Number | Medium | | |
 | 307 | Range Sum Query - Mutable | Medium | | |
-| 308 | Range Sum Query 2D - Mutable  | Hard | | |
+| 308 | Range Sum Query 2D - Mutable  | Hard | | :lock: |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | | |
 | 310 | Minimum Height Trees | Medium | | |
-| 311 | Sparse Matrix Multiplication  | Medium | | |
+| 311 | Sparse Matrix Multiplication  | Medium | | :lock: |
 | 312 | Burst Balloons | Hard | | |
 | 313 | Super Ugly Number | Medium | | |
-| 314 | Binary Tree Vertical Order Traversal  | Medium | | |
+| 314 | Binary Tree Vertical Order Traversal  | Medium | | :lock: |
 | 315 | Count of Smaller Numbers After Self | Hard | | |
 | 316 | Remove Duplicate Letters | Hard | | |
-| 317 | Shortest Distance from All Buildings  | Hard | | |
+| 317 | Shortest Distance from All Buildings  | Hard | | :lock: |
 | 318 | Maximum Product of Word Lengths | Medium | | |
 | 319 | Bulb Switcher | Medium | | |
-| 320 | Generalized Abbreviation  | Medium | | |
+| 320 | Generalized Abbreviation  | Medium | | :lock: |
 | 321 | Create Maximum Number | Hard | | |
 | 322 | Coin Change | Medium | | |
-| 323 | Number of Connected Components in an Undirected Graph  | Medium | | |
+| 323 | Number of Connected Components in an Undirected Graph  | Medium | | :lock: |
 | 324 | Wiggle Sort II | Medium | | |
-| 325 | Maximum Size Subarray Sum Equals k  | Medium | | |
+| 325 | Maximum Size Subarray Sum Equals k  | Medium | | :lock: |
 | 326 | Power of Three | Easy | | |
 | 327 | Count of Range Sum | Hard | | |
 | 328 | Odd Even Linked List | Medium | | |
@@ -315,44 +315,44 @@
 | 330 | Patching Array | Hard | | |
 | 331 | Verify Preorder Serialization of a Binary Tree | Medium | | |
 | 332 | Reconstruct Itinerary | Medium | | |
-| 333 | Largest BST Subtree  | Medium | | |
+| 333 | Largest BST Subtree  | Medium | | :lock: |
 | 334 | Increasing Triplet Subsequence | Medium | | |
 | 335 | Self Crossing | Hard | | |
 | 336 | Palindrome Pairs | Hard | | |
 | 337 | House Robber III | Medium | | |
 | 338 | Counting Bits | Medium | | |
-| 339 | Nested List Weight Sum  | Easy | | |
-| 340 | Longest Substring with At Most K Distinct Characters  | Hard | | |
+| 339 | Nested List Weight Sum  | Easy | | :lock: |
+| 340 | Longest Substring with At Most K Distinct Characters  | Hard | | :lock: |
 | 341 | Flatten Nested List Iterator | Medium | | |
 | 342 | Power of Four | Easy | | |
 | 343 | Integer Break | Medium | | |
 | 344 | [Reverse String](344-Reverse-String.MD) | Easy | Two Pointers String | |
 | 345 | Reverse Vowels of a String | Easy | | |
-| 346 | Moving Average from Data Stream  | Easy | | |
+| 346 | Moving Average from Data Stream  | Easy | | :lock: |
 | 347 | Top K Frequent Elements | Medium | | |
-| 348 | Design Tic-Tac-Toe  | Medium | | |
+| 348 | Design Tic-Tac-Toe  | Medium | | :lock: |
 | 349 | Intersection of Two Arrays | Easy | | |
 | 350 | Intersection of Two Arrays II | Easy | | |
-| 351 | Android Unlock Patterns  | Medium | | |
+| 351 | Android Unlock Patterns  | Medium | | :lock: |
 | 352 | Data Stream as Disjoint Intervals | Hard | | |
-| 353 | Design Snake Game  | Medium | | |
+| 353 | Design Snake Game  | Medium | | :lock: |
 | 354 | Russian Doll Envelopes | Hard | | |
 | 355 | Design Twitter | Medium | | |
-| 356 | Line Reflection  | Medium | | |
+| 356 | Line Reflection  | Medium | | :lock: |
 | 357 | Count Numbers with Unique Digits | Medium | | |
-| 358 | Rearrange String k Distance Apart  | Hard | | |
-| 359 | Logger Rate Limiter  | Easy | | |
-| 360 | Sort Transformed Array  | Medium | | |
-| 361 | Bomb Enemy  | Medium | | |
-| 362 | Design Hit Counter  | Medium | | |
+| 358 | Rearrange String k Distance Apart  | Hard | | :lock: |
+| 359 | Logger Rate Limiter  | Easy | | :lock: |
+| 360 | Sort Transformed Array  | Medium | | :lock: |
+| 361 | Bomb Enemy  | Medium | | :lock: |
+| 362 | Design Hit Counter  | Medium | | :lock: |
 | 363 | Max Sum of Rectangle No Larger Than K | Hard | | |
-| 364 | Nested List Weight Sum II  | Medium | | |
+| 364 | Nested List Weight Sum II  | Medium | | :lock: |
 | 365 | Water and Jug Problem | Medium | | |
-| 366 | Find Leaves of Binary Tree  | Medium | | |
+| 366 | Find Leaves of Binary Tree  | Medium | | :lock: |
 | 367 | Valid Perfect Square | Medium | | |
 | 368 | Largest Divisible Subset | Medium | | |
-| 369 | Plus One Linked List  | Medium | | |
-| 370 | Range Addition  | Medium | | |
+| 369 | Plus One Linked List  | Medium | | :lock: |
+| 370 | Range Addition  | Medium | | :lock: |
 | 371 | Sum of Two Integers | Easy | | |
 | 372 | Super Pow | Medium | | |
 | 373 | Find K Pairs with Smallest Sums | Medium | | |
