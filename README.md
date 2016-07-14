@@ -155,7 +155,7 @@
 | 153 | Find Minimum in Rotated Sorted Array | Medium | | |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | | |
 | 155 | [Min Stack](155-Min-Stack.MD) | Easy | | |
-| 156 | Binary Tree Upside Down  | Medium | | |
+| 156 | Binary Tree Upside Down  | Medium | | :lock: |
 | 157 | Read N Characters Given Read4  | Easy | | |
 | 158 | Read N Characters Given Read4 II - Call multiple times  | Hard | | |
 | 159 | Longest Substring with At Most Two Distinct Characters  | Hard | | |
