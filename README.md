@@ -274,7 +274,7 @@
 | 289 | Game of Life | Medium | | |
 | 290 | Word Pattern | Easy | | |
 | 291 | Word Pattern II  | Hard | | :lock: |
-| 292 | Nim Game | Easy | | |
+| 292 | [Nim Game](292-Nim-Game.MD) | Easy | | |
 | 293 | Flip Game  | Easy | | :lock: |
 | 294 | Flip Game II  | Medium | | :lock: |
 | 295 | Find Median from Data Stream | Hard | | |
@@ -320,7 +320,7 @@
 | 335 | Self Crossing | Hard | | |
 | 336 | Palindrome Pairs | Hard | | |
 | 337 | House Robber III | Medium | | |
-| 338 | Counting Bits | Medium | | |
+| 338 | [Counting Bits](338-Counting-Bits.MD) | Medium | | |
 | 339 | Nested List Weight Sum  | Easy | | :lock: |
 | 340 | Longest Substring with At Most K Distinct Characters  | Hard | | :lock: |
 | 341 | Flatten Nested List Iterator | Medium | | |
