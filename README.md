@@ -243,7 +243,7 @@
 | 257 | Binary Tree Paths | Easy | | |
 | 258 | [Add Digits](258-Add-Digits.MD) | Easy | | |
 | 259 | 3Sum Smaller  | Medium | | :lock: |
-| 260 | Single Number III | Medium | | |
+| 260 | [Single Number III](260-Single-Number-III.MD) | Medium | | |
 | 261 | Graph Valid Tree  | Medium | | :lock: |
 | 263 | Ugly Number | Easy | | |
 | 264 | Ugly Number II | Medium | | |
@@ -353,7 +353,7 @@
 | 368 | Largest Divisible Subset | Medium | | |
 | 369 | Plus One Linked List  | Medium | | :lock: |
 | 370 | Range Addition  | Medium | | :lock: |
-| 371 | Sum of Two Integers | Easy | | |
+| 371 | [Sum of Two Integers](371-Sum-of-Two-Integers.MD) | Easy | | |
 | 372 | Super Pow | Medium | | |
 | 373 | Find K Pairs with Smallest Sums | Medium | | |
 | 374 | Guess Number Higher or Lower | Easy | | |
