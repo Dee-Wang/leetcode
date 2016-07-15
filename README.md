@@ -64,7 +64,7 @@
 | 062 | Unique Paths | Medium | | |
 | 063 | Unique Paths II | Medium | | |
 | 064 | Minimum Path Sum | Medium | | |
-| 065 | Valid Number | Hard | | |
+| 065 | [Valid Number](065-Valid-Number.MD) | Hard | | |
 | 066 | [Plus One](066-Plus-One.MD) | Easy | | |
 | 067 | [Add Binary](067-Add-Binary.MD) | Easy | | |
 | 068 | Text Justification | Hard | | |
