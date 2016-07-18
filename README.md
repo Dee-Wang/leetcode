@@ -54,7 +54,7 @@
 | 052 | N-Queens II | Hard | | |
 | 053 | Maximum Subarray | Medium | | |
 | 054 | Spiral Matrix | Medium | | |
-| 055 | Jump Game | Medium | | |
+| 055 | [Jump Game](055-Jump-Game.MD) | Medium | Array, Greedy| |
 | 056 | Merge Intervals | Hard | | |
 | 057 | Insert Interval | Hard | | |
 | 058 | [Length of Last Word](058-Length-of-Last-Word.MD) | Easy | | |
