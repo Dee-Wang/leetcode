@@ -1,5 +1,5 @@
  编号 | 题目 | 难度 | 标签 | 备注 |
-| ---- | ---- | ---- | ---- | ---- |
+|:----:|:---- |:---- |:---- |:----:|
 | 001 | [Two Sum](001-Two-Sum.MD) | Easy | | |
 | 002 | [Add Two Numbers](002-Add-Two-Numbers.MD) | Medium | | |
 | 003 | [Longest Substring Without Repeating Characters](003-Longest-Substring-Without-Repeating-Characters.MD) | Medium | | |
@@ -131,7 +131,7 @@
 | 129 | Sum Root to Leaf Numbers | Medium | | |
 | 130 | Surrounded Regions | Medium | | |
 | 131 | Palindrome Partitioning | Medium | | |
-| 132 | Palindrome Partitioning II | Hard | | |
+| 132 | [Palindrome Partitioning II](132-Palindrome-Partitioning-II.MD) | Hard | Dynamic Programming | |
 | 133 | Clone Graph | Medium | | |
 | 134 | Gas Station | Medium | | |
 | 135 | Candy | Hard | | |
