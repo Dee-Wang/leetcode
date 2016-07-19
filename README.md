@@ -265,7 +265,7 @@
 | 280 | Wiggle Sort  | Medium | | :lock: |
 | 281 | Zigzag Iterator  | Medium | | :lock: |
 | 282 | Expression Add Operators | Hard | | |
-| 283 | Move Zeroes | Easy | | |
+| 283 | [Move Zeroes](283-Move-Zeroes.MD) | Easy | Array, Two Pointers | |
 | 284 | Peeking Iterator | Medium | | |
 | 285 | Inorder Successor in BST  | Medium | | :lock: |
 | 286 | Walls and Gates  | Medium | | :lock: |
