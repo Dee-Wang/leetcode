@@ -221,7 +221,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.MD) | Easy | | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | | |
 | 237 | [Delete Node in a Linked List](237-Delete-Node-in-a-Linked-List.MD) | Easy | | |
-| 238 | Product of Array Except Self | Medium | | |
+| 238 | [Product of Array Except Self](238-Product-of-Array-Except-Self.MD) | Medium | Array | |
 | 239 | Sliding Window Maximum | Hard | | |
 | 240 | Search a 2D Matrix II | Medium | | |
 | 241 | Different Ways to Add Parentheses | Medium | | |
