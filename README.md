@@ -329,7 +329,7 @@
 | 344 | [Reverse String](344-Reverse-String.MD) | Easy | Two Pointers String | |
 | 345 | Reverse Vowels of a String | Easy | | |
 | 346 | Moving Average from Data Stream  | Easy | | :lock: |
-| 347 | Top K Frequent Elements | Medium | | |
+| 347 | [Top K Frequent Elements](347-Top-K-Frequent-Elements.MD) | Medium | Hash Table, Heap | |
 | 348 | Design Tic-Tac-Toe  | Medium | | :lock: |
 | 349 | Intersection of Two Arrays | Easy | | |
 | 350 | Intersection of Two Arrays II | Easy | | |
